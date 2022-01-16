@@ -1,3 +1,3 @@
 # Main Heading (Learning)
 
-Some plain text
+Some plain text.
